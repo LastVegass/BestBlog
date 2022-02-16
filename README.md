@@ -18,5 +18,5 @@ end
 ```
 
 ``` javascript
-aler('Hi there');
+alert('Hi there');
 ```
